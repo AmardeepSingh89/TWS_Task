@@ -48,8 +48,7 @@ namespace TWSAmardeepSingh.Domains
             );
 
             var dest = _tiles.Find(
-                t => t.Position.X == to.Item1 && t.Position.Y == to.Item2 // && not occupied?
-            );
+                t => t.Position.X == to.Item1 && t.Position.Y == to.Item2);
 
             if (source == null || dest == null)
                 return false;
