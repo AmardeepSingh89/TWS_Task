@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{A0E47A8D-543F-471F-A36B-34B69E00243D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TWSAmardeepSingh/Program.cs">
+    <Files>
+      <File FileName="TWSAmardeepSingh/Program.cs" Line="31" Column="10" />
+      <File FileName="TWSAmardeepSingh/Domains/Position.cs" />
+      <File FileName="TWSAmardeepSingh/Domains/Point.cs" />
+      <File FileName="TWSAmardeepSingh/Domains/IConnection.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TWSAmardeepSingh" expanded="True">
+            <Node name="TWSAmardeepSingh" expanded="True">
+              <Node name="Domains" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="TWSUnitTest" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.TWSUnitTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.TWSAmardeepSingh PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/Users/acesingh/Projects/TWSAmardeepSingh/TWSAmardeepSingh/Domains/nqtcekyn.z5l~" relfile="TWSAmardeepSingh/Domains/nqtcekyn.z5l~" line="15" column="1" />
+      <Breakpoint enabled="false" file="/Users/acesingh/Projects/TWSAmardeepSingh/TWSAmardeepSingh/Domains/Position.cs" relfile="TWSAmardeepSingh/Domains/Position.cs" line="124" column="1" />
+      <Breakpoint file="/Users/acesingh/Projects/TWSAmardeepSingh/TWSUnitTest/UnitTests.cs" relfile="TWSUnitTest/UnitTests.cs" line="15" column="1" />
+      <Breakpoint file="/Users/acesingh/Projects/TWSAmardeepSingh/TWSUnitTest/6vjr4wug.urd~" relfile="TWSUnitTest/6vjr4wug.urd~" line="19" column="1" />
+      <Breakpoint file="/Users/acesingh/Projects/TWSAmardeepSingh/TWSUnitTest/6vjr4wug.urd~" relfile="TWSUnitTest/6vjr4wug.urd~" line="21" column="1" />
+      <Breakpoint file="/Users/acesingh/Projects/TWSAmardeepSingh/TWSUnitTest/6vjr4wug.urd~" relfile="TWSUnitTest/6vjr4wug.urd~" line="34" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

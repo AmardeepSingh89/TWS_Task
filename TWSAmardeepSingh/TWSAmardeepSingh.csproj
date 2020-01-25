@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Domains\" />
+    <Folder Include="Commands\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="Domains\LandSize.cs" />
+    <Compile Remove="Domains\Parser.cs" />
+    <Compile Remove="Domains\Land.cs" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,11 @@
+/Users/acesingh/Projects/TWSAmardeepSingh/TWSAmardeepSingh/obj/Debug/netcoreapp3.1/TWSAmardeepSingh.csprojAssemblyReference.cache
+/Users/acesingh/Projects/TWSAmardeepSingh/TWSAmardeepSingh/obj/Debug/netcoreapp3.1/TWSAmardeepSingh.AssemblyInfoInputs.cache
+/Users/acesingh/Projects/TWSAmardeepSingh/TWSAmardeepSingh/obj/Debug/netcoreapp3.1/TWSAmardeepSingh.AssemblyInfo.cs
+/Users/acesingh/Projects/TWSAmardeepSingh/TWSAmardeepSingh/bin/Debug/netcoreapp3.1/TWSAmardeepSingh
+/Users/acesingh/Projects/TWSAmardeepSingh/TWSAmardeepSingh/bin/Debug/netcoreapp3.1/TWSAmardeepSingh.deps.json
+/Users/acesingh/Projects/TWSAmardeepSingh/TWSAmardeepSingh/bin/Debug/netcoreapp3.1/TWSAmardeepSingh.runtimeconfig.json
+/Users/acesingh/Projects/TWSAmardeepSingh/TWSAmardeepSingh/bin/Debug/netcoreapp3.1/TWSAmardeepSingh.runtimeconfig.dev.json
+/Users/acesingh/Projects/TWSAmardeepSingh/TWSAmardeepSingh/bin/Debug/netcoreapp3.1/TWSAmardeepSingh.dll
+/Users/acesingh/Projects/TWSAmardeepSingh/TWSAmardeepSingh/bin/Debug/netcoreapp3.1/TWSAmardeepSingh.pdb
+/Users/acesingh/Projects/TWSAmardeepSingh/TWSAmardeepSingh/obj/Debug/netcoreapp3.1/TWSAmardeepSingh.dll
+/Users/acesingh/Projects/TWSAmardeepSingh/TWSAmardeepSingh/obj/Debug/netcoreapp3.1/TWSAmardeepSingh.pdb

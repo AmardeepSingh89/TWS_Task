@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TWSAmardeepSingh", "TWSAmardeepSingh\TWSAmardeepSingh.csproj", "{A0E47A8D-543F-471F-A36B-34B69E00243D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TWSUnitTest", "TWSUnitTest\TWSUnitTest.csproj", "{552FBB90-AB3E-41EB-9CB5-BBBB30DE0A88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0E47A8D-543F-471F-A36B-34B69E00243D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0E47A8D-543F-471F-A36B-34B69E00243D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0E47A8D-543F-471F-A36B-34B69E00243D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0E47A8D-543F-471F-A36B-34B69E00243D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{552FBB90-AB3E-41EB-9CB5-BBBB30DE0A88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{552FBB90-AB3E-41EB-9CB5-BBBB30DE0A88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{552FBB90-AB3E-41EB-9CB5-BBBB30DE0A88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{552FBB90-AB3E-41EB-9CB5-BBBB30DE0A88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
